@@ -63,3 +63,9 @@ This project was created to:
 ## 📜 License
 
 This project is licensed under the MIT License — you are free to modify and use it.
+
+---
+
+If you want, I can also **add a "What I Learned" section** in the README so it looks more professional for your GitHub portfolio and shows your growth.
+Do you want me to add that?
+
